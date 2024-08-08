@@ -13,10 +13,10 @@ This WordPress plugin simplifies the integration of our customizable HTML5 radio
    - Extract the contents of the ZIP file to a folder.
 
 3. **Configure your radio stations:**
-   - Open the `js/config.js` file in the extracted plugin folder.
+   - Open the `config.js` file in the extracted plugin folder.
    - Edit the `window.streams.stations` variable and replace the example stations with your own.
    - For each station, fill in the information including name, hash, description, logo, album art (`album`), background cover (`cover`), audio stream URL (`stream_url`), social links, app links, and other relevant information.
-   - **Important:** Image paths (`logo`, `album`, `cover`) must be relative to the plugin folder. For example: `assets/image-name.jpg`.
+   - **Important:** Image paths (`logo`, `album`, `cover`) must be relative to the plugin folder. For example: `wp-content/plugins/meu-radio-player/assets/image-name.jpg`.
 
 4. **Customize images (optional):**
    - Replace the images in the `assets` folder with your own.
