@@ -6,7 +6,7 @@ This WordPress plugin simplifies the integration of our customizable HTML5 radio
 
 ### Demo Screenshots
 
-![Demo Screenshot](https://i.imgur.com/bZYdeTp.png)
+![Demo Screenshot](https://i.imgur.com/jZFVD3y.png)
 
 ### Installation
 
