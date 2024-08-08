@@ -4,6 +4,10 @@
 
 This WordPress plugin simplifies the integration of our customizable HTML5 radio player into your WordPress website. Add a full-featured, responsive radio player to your site's footer, giving your visitors an enhanced audio experience.
 
+### Demo Screenshots
+
+![Demo Screenshot](https://i.imgur.com/bZYdeTp.png)
+
 ### Installation
 
 1. **Download the plugin:**
@@ -40,4 +44,8 @@ For additional customization, you can edit the following files within the plugin
 ### Support
 
 If you have any questions or problems, please refer to the issues page of this repository.
+
+### Acknowledgements:
+
+I would like to thank Fabian Monrroy Gonzalez for generously sharing a part of his code, which has been instrumental in the development of this project.
 
