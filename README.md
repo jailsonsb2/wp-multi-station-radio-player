@@ -45,7 +45,4 @@ For additional customization, you can edit the following files within the plugin
 
 If you have any questions or problems, please refer to the issues page of this repository.
 
-### Acknowledgements:
-
-I would like to thank Fabian Monrroy Gonzalez for generously sharing a part of his code, which has been instrumental in the development of this project.
 
